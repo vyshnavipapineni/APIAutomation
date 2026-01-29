@@ -1,4 +1,4 @@
-🧪** API Automation Framework**
+🧪**API Automation Framework**
 
 This is a comprehensive API automation testing framework built with Java and TestNG. It leverages RestAssured for API testing and is designed with a clean, modular structure for scalability and maintainability.
 
@@ -40,23 +40,25 @@ src/
 
 
 🧪** How to Run**
+
 **Prerequisites**
 Java 11 or higher
 Maven
 TestNG
 Run All Tests
 
-Right-click apiSanity.xml → Run as TestNG Suite
+**Right-click apiSanity.xml → Run as TestNG Suite**
 
 🔸 **Sample Test Data**
 Example for user creation payload (CreateUserPayload):
 
-{
+**{
   "name": "API Automation User",
   "gender": "female",
   "email": "api.user+test@domain.com",
   "status": "active"
 }
+**
 
 📊 **Reporting**
 .All API requests, responses, and assertion logs are captured
