@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5a5ec64c-a700-45f2-ba2c-48c4a64179c0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/suites/apiSanity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suites/apiSanity.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
