@@ -65,7 +65,6 @@ Example for user creation payload (CreateUserPayload):
 
 .Detailed execution logs can be viewed via console or custom log files
 
-.Framework is structured to easily integrate with reporting tools (e.g., ExtentReports)
 
 **✅ Key Highlights**
 
