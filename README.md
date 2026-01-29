@@ -41,7 +41,6 @@ src/
 
 🧪** How to Run**
 **Prerequisites**
-
 Java 11 or higher
 Maven
 TestNG
