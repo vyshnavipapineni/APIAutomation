@@ -5,35 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a5ec64c-a700-45f2-ba2c-48c4a64179c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/api.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/suites/apiSanity.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/middleWare/CreateUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/middleWare/GetAllProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/middleWare/GetAllUsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/middleWare/SearchProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/objects/ManageApiObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/AllProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/CreateUserPayload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/Products.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/UserType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestGetAllProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestSearchProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestUserListApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/CommonRestUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/OAuthTokenUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TokenUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/createUser.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/tokenRequest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,17 +31,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vyshn/IdeaProjects/APIFrameworkDay8/src/test/resources&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/vyshn/IdeaProjects/APIFrameworkDay8/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vyshn/IdeaProjects/APIFrameworkDay8/src/test/resources",
+    "onboarding.tips.debug.path": "C:/Users/vyshn/IdeaProjects/APIFrameworkDay8/src/main/java/org/example/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vyshn\IdeaProjects\APIFrameworkDay8\src\test\resources" />
