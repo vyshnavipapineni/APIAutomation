@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a5ec64c-a700-45f2-ba2c-48c4a64179c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/api.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/suites/apiSanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/middleWare/CreateUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/middleWare/GetAllProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/middleWare/GetAllUsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/middleWare/SearchProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/objects/ManageApiObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/AllProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/CreateUserPayload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/Products.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo/UserType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestGetAllProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestSearchProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestUserListApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/CommonRestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/OAuthTokenUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TokenUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/createUser.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/tokenRequest.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="38ss36YZG072ouK0sEfS6xCU135" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vyshn/IdeaProjects/APIFrameworkDay8/src/test/resources&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/vyshn/IdeaProjects/APIFrameworkDay8/src/main/java/org/example/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vyshn\IdeaProjects\APIFrameworkDay8\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="APIAutomation" type="TestNG">
+      <module name="APIFrameworkDay8" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <envs>
+        <env name="BASIC_PASS" value="admin123" />
+        <env name="BASIC_USER" value="admin" />
+        <env name="CLIENT_ID" value="123" />
+        <env name="CLIENT_SECRET" value="xyz" />
+      </envs>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a5ec64c-a700-45f2-ba2c-48c4a64179c0" name="Changes" comment="" />
+      <created>1769599413372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769599413372</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
